@@ -2,7 +2,7 @@
 ## Part-I
 ## Part-II
 ### Introduction
-In the part-2 of assignment-3 we need to write a CNN based neural architecture which will need to achieve validating accuracy of `99.4%` on MNIST digit dataset. Following are the constraints to achieve this results
+In the part-2 (`./EVA-8_Phase-1_Assignment-3.ipynb`) of assignment-3 we need to write a CNN based neural architecture which will need to achieve validating accuracy of `99.4%` on MNIST digit dataset. Following are the constraints to achieve this results
   - Model needs to have less then 20k parameters.
   - Training needs to be done under 20 epoch.
   - Model architecture need to use Batch normalization, Dropout, a Fully connected layer and Global Average Pooling.
